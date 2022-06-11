@@ -51,6 +51,10 @@ code, pre{
   padding: 10px;
 }
 
+.navbar .logo a:hover{
+  border-bottom: 0px solid transparent;
+}
+
 .hidden{
   visibility: hidden;
   height: 0;
